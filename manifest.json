@@ -1,0 +1,19 @@
+﻿{
+  "manifest_version": 3,
+  "name": "Gorila Roxo",
+  "version": "1.0.0",
+  "description": "Mostra um meme animado na página ao clicar no ícone da extensão e remove depois de 10 segundos.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Mostrar gorila roxo"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["funny-meme.gif"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
