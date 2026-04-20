@@ -1,12 +1,12 @@
-﻿# Gorila Roxo
+# Gorila Roxo
 
-Extens├úo Chrome que mostra um gorila roxo no canto inferior esquerdo da p├ígina quando voc├¬ clica no ├¡cone da extens├úo.
+Extensão Chrome que mostra um gorila roxo no canto inferior esquerdo da página quando você clica no ícone da extensão.
 
-O gorila desaparece automaticamente ap├│s 10 segundos.
+O gorila desaparece automaticamente após 10 segundos.
 
 ## Como usar
 
 1. Abra `chrome://extensions`.
 2. Ative `Modo do desenvolvedor`.
-3. Clique em `Carregar sem compacta├º├úo`.
+3. Clique em `Carregar sem compactação`.
 4. Selecione a pasta `gorila-roxo-extension`.
