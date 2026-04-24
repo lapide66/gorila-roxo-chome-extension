@@ -1,6 +1,6 @@
 # Gorila Roxo
 
-Extensão Chrome que mostra um gorila roxo no canto de forma aleatoria na página quando você clica no ícone da extensão.
+Extensão Chrome que mostra um gorila roxo que aparece de forma aleatoria na página quando você clica no ícone da extensão.
 
 O gorila desaparece automaticamente após 10 segundos.
 
